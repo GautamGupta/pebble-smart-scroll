@@ -1,0 +1,17 @@
+{
+  "uuid": "69398a84-37d0-4ca1-8c59-f6ace5f92f3d",
+  "shortName": "smart-scroll",
+  "longName": "smart-scroll",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
